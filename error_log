@@ -1,0 +1,255 @@
+[13-Sep-2021 20:46:55 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/saly1925/public_html/func.php on line 132
+[13-Sep-2021 20:47:01 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/saly1925/public_html/func.php on line 132
+[13-Sep-2021 20:47:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/saly1925/public_html/func.php on line 132
+[13-Sep-2021 20:47:44 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/saly1925/public_html/func.php on line 132
+[13-Sep-2021 20:47:47 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/saly1925/public_html/func.php on line 132
+[13-Sep-2021 20:47:47 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/saly1925/public_html/func.php on line 132
+[13-Sep-2021 20:47:48 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/saly1925/public_html/func.php on line 132
+[13-Sep-2021 20:47:48 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/saly1925/public_html/func.php on line 132
+[13-Sep-2021 20:47:49 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/saly1925/public_html/func.php on line 132
+[13-Sep-2021 20:47:49 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/saly1925/public_html/func.php on line 132
+[13-Sep-2021 20:47:50 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/saly1925/public_html/func.php on line 132
+[13-Sep-2021 20:47:50 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/saly1925/public_html/func.php on line 132
+[13-Sep-2021 20:47:51 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/saly1925/public_html/func.php on line 132
+[13-Sep-2021 20:47:51 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/saly1925/public_html/func.php on line 132
+[13-Sep-2021 20:48:39 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/saly1925/public_html/func.php on line 132
+[13-Sep-2021 20:48:42 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/saly1925/public_html/func.php on line 132
+[13-Sep-2021 20:48:43 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/saly1925/public_html/func.php on line 132
+[13-Sep-2021 20:49:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/saly1925/public_html/func.php on line 132
+[13-Sep-2021 20:49:38 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/saly1925/public_html/func.php on line 132
+[13-Sep-2021 20:49:38 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/saly1925/public_html/func.php on line 132
+[13-Sep-2021 20:49:39 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/saly1925/public_html/func.php on line 132
+[13-Sep-2021 20:49:57 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/saly1925/public_html/func.php on line 132
+[13-Sep-2021 20:49:58 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/saly1925/public_html/func.php on line 132
+[13-Sep-2021 20:49:59 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/saly1925/public_html/func.php on line 132
+[13-Sep-2021 20:49:59 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/saly1925/public_html/func.php on line 132
+[13-Sep-2021 20:50:02 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/saly1925/public_html/func.php on line 132
+[13-Sep-2021 21:47:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/saly1925/public_html/func.php:85
+Stack trace:
+#0 /home/saly1925/public_html/web.php(49): menu()
+#1 /home/saly1925/public_html/index.php(9): include('/home/saly1925/...')
+#2 {main}
+  thrown in /home/saly1925/public_html/func.php on line 85
+[13-Sep-2021 21:47:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/saly1925/public_html/func.php:85
+Stack trace:
+#0 /home/saly1925/public_html/web.php(49): menu()
+#1 /home/saly1925/public_html/index.php(9): include('/home/saly1925/...')
+#2 {main}
+  thrown in /home/saly1925/public_html/func.php on line 85
+[13-Sep-2021 21:47:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/saly1925/public_html/func.php:85
+Stack trace:
+#0 /home/saly1925/public_html/web.php(49): menu()
+#1 /home/saly1925/public_html/index.php(9): include('/home/saly1925/...')
+#2 {main}
+  thrown in /home/saly1925/public_html/func.php on line 85
+[13-Sep-2021 21:47:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/saly1925/public_html/func.php:85
+Stack trace:
+#0 /home/saly1925/public_html/web.php(49): menu()
+#1 /home/saly1925/public_html/index.php(9): include('/home/saly1925/...')
+#2 {main}
+  thrown in /home/saly1925/public_html/func.php on line 85
+[13-Sep-2021 21:47:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/saly1925/public_html/func.php:85
+Stack trace:
+#0 /home/saly1925/public_html/web.php(49): menu()
+#1 /home/saly1925/public_html/index.php(9): include('/home/saly1925/...')
+#2 {main}
+  thrown in /home/saly1925/public_html/func.php on line 85
+[13-Sep-2021 21:49:22 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/saly1925/public_html/func.php on line 132
+[13-Sep-2021 21:49:23 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/saly1925/public_html/func.php on line 132
+[13-Sep-2021 21:49:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/saly1925/public_html/func.php on line 132
+[13-Sep-2021 22:14:05 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/saly1925/public_html/func.php on line 137
+[13-Sep-2021 22:14:14 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/saly1925/public_html/func.php on line 137
+[13-Sep-2021 22:44:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/saly1925/public_html/func.php on line 132
+[13-Sep-2021 22:44:29 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/saly1925/public_html/func.php on line 132
+[13-Sep-2021 22:44:30 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/saly1925/public_html/func.php on line 132
+[13-Sep-2021 22:44:30 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/saly1925/public_html/func.php on line 132
+[13-Sep-2021 23:06:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/saly1925/public_html/func.php:19
+Stack trace:
+#0 /home/saly1925/public_html/login.php(17): javascript('', 'redirect')
+#1 /home/saly1925/public_html/index.php(5): include('/home/saly1925/...')
+#2 {main}
+  thrown in /home/saly1925/public_html/func.php on line 19
+[13-Sep-2021 23:06:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/saly1925/public_html/func.php:19
+Stack trace:
+#0 /home/saly1925/public_html/login.php(17): javascript('', 'redirect')
+#1 /home/saly1925/public_html/index.php(5): include('/home/saly1925/...')
+#2 {main}
+  thrown in /home/saly1925/public_html/func.php on line 19
+[13-Sep-2021 23:26:23 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:26:23 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:26:25 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:26:25 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:27:19 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:27:20 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:27:20 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:27:22 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:27:22 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:27:34 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:27:35 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:27:36 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:27:40 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:27:42 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:27:44 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:27:44 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:28:55 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:28:56 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:28:59 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:29:00 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:29:00 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:29:02 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:29:05 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:29:06 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:29:06 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:29:06 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:29:06 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:29:07 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:29:07 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:29:07 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:29:08 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:29:08 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:29:09 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:29:09 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:29:42 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:29:54 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:29:54 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:38:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/saly1925/public_html/func.php:11
+Stack trace:
+#0 /home/saly1925/public_html/index.php(2): include()
+#1 {main}
+  thrown in /home/saly1925/public_html/func.php on line 11
+[13-Sep-2021 23:38:24 Asia/jakarta] PHP Deprecated:  Required parameter $nfile follows optional parameter $type in /home/saly1925/public_html/func.php on line 106
+[13-Sep-2021 23:38:24 Asia/jakarta] PHP Deprecated:  Required parameter $sfile follows optional parameter $type in /home/saly1925/public_html/func.php on line 106
+[13-Sep-2021 23:38:24 Asia/jakarta] PHP Deprecated:  Required parameter $tfile follows optional parameter $type in /home/saly1925/public_html/func.php on line 106
+[13-Sep-2021 23:38:24 Asia/jakarta] PHP Deprecated:  Required parameter $redirect follows optional parameter $type in /home/saly1925/public_html/func.php on line 106
+[13-Sep-2021 23:38:24 Asia/jakarta] PHP Deprecated:  Required parameter $url follows optional parameter $type in /home/saly1925/public_html/func.php on line 106
+[13-Sep-2021 23:38:24 Asia/jakarta] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:38:24 Asia/jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "level" in /home/saly1925/public_html/func.php:75
+Stack trace:
+#0 /home/saly1925/public_html/web.php(49): menu()
+#1 /home/saly1925/public_html/index.php(9): include('/home/saly1925/...')
+#2 {main}
+  thrown in /home/saly1925/public_html/func.php on line 75
+[13-Sep-2021 23:38:27 Asia/jakarta] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:38:27 Asia/jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "level" in /home/saly1925/public_html/func.php:75
+Stack trace:
+#0 /home/saly1925/public_html/web.php(49): menu()
+#1 /home/saly1925/public_html/index.php(9): include('/home/saly1925/...')
+#2 {main}
+  thrown in /home/saly1925/public_html/func.php on line 75
+[13-Sep-2021 23:38:28 Asia/jakarta] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:38:28 Asia/jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "level" in /home/saly1925/public_html/func.php:75
+Stack trace:
+#0 /home/saly1925/public_html/web.php(49): menu()
+#1 /home/saly1925/public_html/index.php(9): include('/home/saly1925/...')
+#2 {main}
+  thrown in /home/saly1925/public_html/func.php on line 75
+[13-Sep-2021 23:38:28 Asia/jakarta] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:38:28 Asia/jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "level" in /home/saly1925/public_html/func.php:75
+Stack trace:
+#0 /home/saly1925/public_html/web.php(49): menu()
+#1 /home/saly1925/public_html/index.php(9): include('/home/saly1925/...')
+#2 {main}
+  thrown in /home/saly1925/public_html/func.php on line 75
+[13-Sep-2021 23:38:29 Asia/jakarta] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:38:29 Asia/jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "level" in /home/saly1925/public_html/func.php:75
+Stack trace:
+#0 /home/saly1925/public_html/web.php(49): menu()
+#1 /home/saly1925/public_html/index.php(9): include('/home/saly1925/...')
+#2 {main}
+  thrown in /home/saly1925/public_html/func.php on line 75
+[13-Sep-2021 23:38:29 Asia/jakarta] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:38:29 Asia/jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "level" in /home/saly1925/public_html/func.php:75
+Stack trace:
+#0 /home/saly1925/public_html/web.php(49): menu()
+#1 /home/saly1925/public_html/index.php(9): include('/home/saly1925/...')
+#2 {main}
+  thrown in /home/saly1925/public_html/func.php on line 75
+[13-Sep-2021 23:38:29 Asia/jakarta] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:38:29 Asia/jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "level" in /home/saly1925/public_html/func.php:75
+Stack trace:
+#0 /home/saly1925/public_html/web.php(49): menu()
+#1 /home/saly1925/public_html/index.php(9): include('/home/saly1925/...')
+#2 {main}
+  thrown in /home/saly1925/public_html/func.php on line 75
+[13-Sep-2021 23:38:54 Asia/jakarta] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:38:54 Asia/jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "level" in /home/saly1925/public_html/func.php:75
+Stack trace:
+#0 /home/saly1925/public_html/web.php(49): menu()
+#1 /home/saly1925/public_html/index.php(9): include('/home/saly1925/...')
+#2 {main}
+  thrown in /home/saly1925/public_html/func.php on line 75
+[13-Sep-2021 23:38:54 Asia/jakarta] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:38:54 Asia/jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "level" in /home/saly1925/public_html/func.php:75
+Stack trace:
+#0 /home/saly1925/public_html/web.php(49): menu()
+#1 /home/saly1925/public_html/index.php(9): include('/home/saly1925/...')
+#2 {main}
+  thrown in /home/saly1925/public_html/func.php on line 75
+[13-Sep-2021 23:38:55 Asia/jakarta] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:38:55 Asia/jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "level" in /home/saly1925/public_html/func.php:75
+Stack trace:
+#0 /home/saly1925/public_html/web.php(49): menu()
+#1 /home/saly1925/public_html/index.php(9): include('/home/saly1925/...')
+#2 {main}
+  thrown in /home/saly1925/public_html/func.php on line 75
+[13-Sep-2021 23:38:55 Asia/jakarta] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:38:55 Asia/jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "level" in /home/saly1925/public_html/func.php:75
+Stack trace:
+#0 /home/saly1925/public_html/web.php(49): menu()
+#1 /home/saly1925/public_html/index.php(9): include('/home/saly1925/...')
+#2 {main}
+  thrown in /home/saly1925/public_html/func.php on line 75
+[13-Sep-2021 23:39:11 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:39:15 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:39:16 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:39:17 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:39:22 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:39:24 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:39:27 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:39:34 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:39:35 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:41:02 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:41:10 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:41:52 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:41:58 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:41:58 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:42:00 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:42:01 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:42:03 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:59:47 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:59:48 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:59:49 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:59:49 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:59:50 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:59:50 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:59:51 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:59:52 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:59:52 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:59:56 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:59:58 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[13-Sep-2021 23:59:58 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[14-Sep-2021 00:00:00 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[14-Sep-2021 00:00:02 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[14-Sep-2021 00:00:02 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[14-Sep-2021 00:00:04 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[14-Sep-2021 00:00:06 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[14-Sep-2021 00:00:06 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[14-Sep-2021 00:00:16 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[14-Sep-2021 00:00:19 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[14-Sep-2021 00:00:21 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[14-Sep-2021 00:00:21 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[14-Sep-2021 00:00:22 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[14-Sep-2021 00:00:22 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[14-Sep-2021 00:02:14 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[14-Sep-2021 00:02:14 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[14-Sep-2021 00:11:11 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[14-Sep-2021 00:11:11 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[14-Sep-2021 00:11:21 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[14-Sep-2021 00:11:21 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[14-Sep-2021 00:30:14 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[14-Sep-2021 00:30:58 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[14-Sep-2021 00:30:59 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[14-Sep-2021 00:31:01 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[14-Sep-2021 00:31:01 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[14-Sep-2021 00:31:02 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2
+[14-Sep-2021 00:31:02 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/saly1925/public_html/index.php:1) in /home/saly1925/public_html/func.php on line 2

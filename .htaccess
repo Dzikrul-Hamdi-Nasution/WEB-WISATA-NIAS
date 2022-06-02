@@ -1,0 +1,36 @@
+<IfModule mod_rewrite.c>
+RewriteEngine on
+
+#back nav
+RewriteRule ^user$ ?m=user [L]
+RewriteRule ^user/tambah$ ?m=user&a=tambah [L]
+RewriteRule ^user/update/([0-9]+)$ ?m=user&a=update&id=$1 [L]
+RewriteRule ^user/delete/([0-9]+)$ ?m=user&a=delete&id=$1 [L]
+
+RewriteRule ^kategori$ ?m=kategori [L]
+RewriteRule ^kategori/tambah$ ?m=kategori&a=tambah [L]
+RewriteRule ^kategori/update/([0-9]+)$ ?m=kategori&a=update&id=$1 [L]
+RewriteRule ^kategori/delete/([0-9]+)$ ?m=kategori&a=delete&id=$1 [L]
+
+RewriteRule ^wisata$ ?m=wisata [L]
+RewriteRule ^wisata/tambah$ ?m=wisata&a=tambah [L]
+RewriteRule ^wisata/update/([0-9]+)$ ?m=wisata&a=update&id=$1 [L]
+RewriteRule ^wisata/delete/([0-9]+)$ ?m=wisata&a=delete&id=$1 [L]
+RewriteRule ^wisata/id/([0-9]+)$ modul/web/wisata.php?id=$1 [L]
+
+RewriteRule ^rekomendasi$ ?m=rekomendasi [L]
+RewriteRule ^tentang$ ?m=tentang [L]
+RewriteRule ^login$ ?m=login [L]
+RewriteRule ^logout$ ?m=logout [L]
+
+
+
+Options All -Indexes
+</IfModule>
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php70” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php70___lsphp .php .php7 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit
